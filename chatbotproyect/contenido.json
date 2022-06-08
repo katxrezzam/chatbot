@@ -1,0 +1,17 @@
+{"contenido": [
+  {"tag" : "saludo",
+  "patrones": ["hola","hey","que tal?","hi","buen dia","saludos","que pasa?","como vas?","buenas"],
+  "respuestas": ["Hola!", "Hey!","Como puedo ayudarte?","Que es lo que necesitas?"]},
+  {"tag" : "despedida",
+  "patrones": ["adios","gracias, adios","hasta luego","me voy","tenga un dia","eso es todo","chao","chau"],
+  "respuestas": ["Adios! Vuelve pronto", "Espero haberto ayudado, adios","Que te vaya bien"]},
+  {"tag" : "equipo",
+  "patrones": ["equipo","creadores","quienes te crearon","creador","propietarios"],
+  "respuestas": ["1", "2","3","4"]},
+  {"tag" : "contraseña",
+  "patrones": ["cambiar de contraseña","contraseña","olvide mi contraseña","nueva contraseña","necesito cambiar de contraseña","no recuerdo mi contraseña"],
+  "respuestas": ["No te preocupes! Yo te ayudare a cambiar de contraseña", "Perfecto, te ayudare a cambiar de contraseña"]},
+  {"tag" : "correo",
+  "patrones": ["cambiar de correo","correo","nuevo correo"],
+  "respuestas": ["Hola!", "Hey!","Como puedo ayudarte?","Que es lo que necesitas?"]}
+]}
